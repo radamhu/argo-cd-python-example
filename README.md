@@ -14,7 +14,7 @@ docker registry.
 
 # Develop and deploy a Flask application
 
-## Develop a Flask application which can communicate with the Redis database. The application should 
+Develop a Flask application which can communicate with the Redis database. The application should 
 have the following endpoints:
 
 - /healthz: return the string "ok" (without quotes)
